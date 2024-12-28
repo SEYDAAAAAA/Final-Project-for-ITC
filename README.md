@@ -6,7 +6,7 @@ Welcome to Yvan's Aurora Borealis Adventure Website! This project serves as info
 ## Dependencies
 - Modern web browser
 - Internet Connection
-- 
+  
 ## How to Use This Project 
 1. **Clone the Repository**
 2.   ```sh
